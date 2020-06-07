@@ -8,4 +8,3 @@ Natan Sanches (https://github.com/natan-dot-com)
 Gabriel Vicente Rodrigues (https://github.com/gabriel-vr)  
 Lucas Mihara (https://github.com/lucasmihara)  
 Vitor Beneti Martins (https://github.com/benetche)  
-ola
