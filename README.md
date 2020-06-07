@@ -5,6 +5,6 @@ O projeto consiste numa fonte de alimentação de tensão variável, feita num s
 
 O circuito fora feito pelo grupo 9 de 2020/1:  
 Natan Sanches (https://github.com/natan-dot-com)  
-Gabriel Vicente Rodrigues ()  
+Gabriel Vicente Rodrigues (https://github.com/gabriel-vr)  
 Lucas Mihara (https://github.com/lucasmihara)  
-Vitor Beneti Martins ()  
+Vitor Beneti Martins (https://github.com/benetche)  
