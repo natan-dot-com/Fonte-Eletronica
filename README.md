@@ -4,7 +4,7 @@ Projeto para a aula de Eletrônica para Computação (SSC0180), no ICMC/USP-São
 O projeto consiste numa fonte de alimentação de tensão variável, feita num simulador (Falstad), com o uso de resistores, diodos, capacitores, transformadores e um regulador de tensão (LM317).
 
 O circuito fora feito pelo grupo 9 de 2020/1:
-Natan Sanches (https://github.com/natan-dot-com)
-Gabriel Vicente Rodrigues ()
-Lucas Mihara (https://github.com/lucasmihara)
-Vitor Beneti ()
+Natan Sanches (https://github.com/natan-dot-com)  
+Gabriel Vicente Rodrigues ()  
+Lucas Mihara (https://github.com/lucasmihara)  
+Vitor Beneti ()  
