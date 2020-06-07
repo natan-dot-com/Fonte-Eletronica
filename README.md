@@ -7,4 +7,4 @@ O circuito fora feito pelo grupo 9 de 2020/1:
 Natan Sanches (https://github.com/natan-dot-com)  
 Gabriel Vicente Rodrigues ()  
 Lucas Mihara (https://github.com/lucasmihara)  
-Vitor Beneti ()  
+Vitor Beneti Martins ()  
