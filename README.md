@@ -21,5 +21,5 @@ Lista de materiais utilizados:
 - 1x Resistor 1K8 - R$ 0,08
 - 2x Resistor 2K2 - R$ 0,16
 - 1x Potenciômetro Linear de 5K - R$ 1,09
-- 1x LED Difuso Branco - R$ 0,23
+- 1x LED Difuso Branco - R$ 0,23  
 CUSTO TOTAL: R$ 4,13
