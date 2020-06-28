@@ -11,5 +11,4 @@ O circuito fora feito pelo grupo 9 de 2020/1:
 
 Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao).
 
-- Simulação - Circuito 1: [Falstad](http://tinyurl.com/yczmm7d2).  
-- Simulação - Circuito 2: [Falstad](http://tinyurl.com/ybv9qkvx).  
+- Simulação - [Falstad](http://tinyurl.com/y9k5xbtm).   
