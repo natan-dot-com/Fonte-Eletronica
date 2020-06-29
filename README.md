@@ -1,5 +1,5 @@
 # Fonte de Tensão Variável (12V-3V)
-
+## Introdução
 Projeto para a aula de Eletrônica para Computação (SSC0180), no ICMC/USP-São Carlos, ministrada pelo docente [Eduardo Simões](https://gitlab.com/simoesusp).
 O projeto consiste numa fonte de alimentação de tensão variável, feita num simulador com o uso de resistores, diodos, capacitores, transformadores e um regulador de tensão.
 
@@ -11,10 +11,12 @@ O circuito fora feito pelo grupo 9 de 2020/1:
 
 Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao).
 
+## Sobre o projeto
+O projeto, por medidas de restrição social, fora feito em dois simuladores de circuitos elétricos: no [Falstad](http://tinyurl.com/y9k5xbtm), online, e no Eagle, outro simulador mais completo que também executa a impressão da placa de circuito final. As imagems==
 - Simulação - [Falstad](http://tinyurl.com/y9k5xbtm).
-## Esquemático - Eagle:
+### Esquemático - Eagle:
 ![Screenshot](1.jpg) 
-## Placa de circuito - Eagle:
+### Placa de circuito - Eagle:
 ![Screenshot](2.jpg) 
 
 Lista de materiais utilizados:
