@@ -11,7 +11,8 @@ O circuito fora feito pelo grupo 9 de 2020/1:
 
 Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao).
 
-- Simulação - [Falstad](http://tinyurl.com/y9k5xbtm).  
+- Simulação - [Falstad](http://tinyurl.com/y9k5xbtm). 
+![alt text](https://imgur.com/OQcR3cC)  
 
 Lista de materiais utilizados:
 - 1x Capacitor Eletrolítico 470µF/50V - R$ 0,90
