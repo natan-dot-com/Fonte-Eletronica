@@ -12,8 +12,7 @@ O circuito fora feito pelo grupo 9 de 2020/1:
 Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao).
 
 ## Sobre o projeto
-O projeto, por medidas de restrição social, fora feito em dois simuladores de circuitos elétricos: no [Falstad](http://tinyurl.com/y9k5xbtm), online, e no Eagle, outro simulador mais completo que também executa a impressão da placa de circuito final. As imagems==
-- Simulação - [Falstad](http://tinyurl.com/y9k5xbtm).
+O projeto, por medidas de restrição social, fora feito em dois simuladores de circuitos elétricos: no [Falstad](http://tinyurl.com/y9k5xbtm), online, e no Eagle, outro simulador mais completo que também executa a impressão da placa de circuito final. As imagens e o arquivo do projeto estão contidos neste repositório e a seguir.
 ### Esquemático - Eagle:
 ![Screenshot](1.jpg) 
 ### Placa de circuito - Eagle:
