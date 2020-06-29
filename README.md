@@ -12,7 +12,9 @@ O circuito fora feito pelo grupo 9 de 2020/1:
 Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/master/SSC0180-Eletronica-para-Computacao).
 
 - Simulação - [Falstad](http://tinyurl.com/y9k5xbtm).
+## Esquemático - Eagle:
 ![Screenshot](1.jpg) 
+## Placa de circuito - Eagle:
 ![Screenshot](2.jpg) 
 
 Lista de materiais utilizados:
