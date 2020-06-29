@@ -15,7 +15,7 @@ Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/mas
 
 Lista de materiais utilizados:
 - 1x Capacitor Eletrolítico 470µF/50V - R$ 0,90
-- 1x Diodo Zener 82V/5W - R$ 0,09
+- 1x Diodo Zener 13V/0,5W - R$ 0,09
 - 4x Diodo 1N4007 - R$ 0,44 (Substituível por uma ponte retificadora)
 - 1x Transistor NPN BC337 - R$ 0,18
 - 1x Resistor 1K8 - R$ 0,08
