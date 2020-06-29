@@ -14,7 +14,7 @@ Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/mas
 - Simulação - [Falstad](http://tinyurl.com/y9k5xbtm).  
 
 Lista de materiais utilizados:
-- 1x Capacitor Eletrolítico 470uF/50V - R$ 0,90
+- 1x Capacitor Eletrolítico 470µF/50V - R$ 0,90
 - 1x Diodo Zener 82V/5W - R$ 0,12
 - 4x Diodo 1N4007 - R$ 0,44 (Substituível por uma ponte retificadora)
 - 1x Transistor NPN BC337 - R$ 0,18
