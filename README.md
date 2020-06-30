@@ -13,6 +13,7 @@ Projeto indexado ao [Gitlab](https://gitlab.com/simoesusp/disciplinas/-/tree/mas
 
 ## Sobre o projeto
 O projeto, por medidas de restrição social, fora feito em dois simuladores de circuitos elétricos: no [Falstad](http://tinyurl.com/y9k5xbtm), online, e no Eagle, outro simulador mais completo que também executa a impressão da placa de circuito final. As imagens e o arquivo do projeto estão contidos neste repositório e a seguir. 
+Houve também a produção de um [vídeo explicativo](https://youtu.be/nBSvIfqxYiY) acerca do projeto, que complementará a leitura dos circuitos.
 ### Esquemático - Falstad:
 ![Screenshot](3.png)
 ### Esquemático - Eagle:
